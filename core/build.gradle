@@ -1,3 +1,4 @@
+/*Spring.io를 통해 생성*/
 plugins {
 	id 'java'
 	id 'org.springframework.boot' version '3.2.2'
@@ -8,15 +9,16 @@ group = 'hello'
 version = '0.0.1-SNAPSHOT'
 
 java {
-	sourceCompatibility = '21'
+	sourceCompatibility = '21'					// 컴퓨터 내 설치된 자바 버전에 따라 변경
 }
 
 repositories {
 	mavenCentral()
 }
 
-dependencies {
+dependencies {									// dependency 추가
 	implementation 'org.springframework.boot:spring-boot-starter'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 	testCompileOnly 'org.projectlombok:lombok'
