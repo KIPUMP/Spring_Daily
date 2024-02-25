@@ -39,6 +39,7 @@ public class SpringMemberControllerV2 {
 
         ModelAndView mav = new ModelAndView("members");
         mav.addObject("members",members);
-        return mav;
+        return mav
+
     }
 }
