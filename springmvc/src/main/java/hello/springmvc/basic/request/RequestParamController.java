@@ -18,7 +18,6 @@ public class RequestParamController {
         String username = request.getParameter("username");
         int age = Integer.parseInt(request.getParameter("age"));
         log.info("username = {}, age = {}", username, age);
-
         response.getWriter().write("ok");
     }
 }
