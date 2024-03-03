@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9956a72-eb3f-44b8-aa18-60df6548f6cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/CoreApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/MemberApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/OrderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/discount/DiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/discount/FixDisCountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/discount/RateDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/member/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/member/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/member/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/member/MemberServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/member/MemoryMemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/order/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/hello/core/order/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/test/java/hello/core/CoreApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/test/java/hello/core/discount/RateDiscountPolicyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/test/java/hello/core/member/MemberServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/test/java/hello/core/order/OrderServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/request/RequestHeaderServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/request/RequestHeaderServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlet/src/main/webapp/basic/hello-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/basic/hello-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Spring_Daily/servlet"
+    "last_opened_file_path": "C:/Spring_Daily/springmvc"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -70,7 +40,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bea112b2-89f6-45b4-bcf1-11d257573430" name="Changes" comment="" />
+      <changelist id="b9956a72-eb3f-44b8-aa18-60df6548f6cd" name="Changes" comment="" />
       <created>1706148086208</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
