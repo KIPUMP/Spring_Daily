@@ -6,6 +6,7 @@
           th:href="@{/css/bootstrap.min.css}" rel="stylesheet">
 </head>
 <body>
+
 <div class="container" style="max-width: 600px">
     <div class="py-5 text-center">
         <h2>상품 목록</h2>
@@ -31,7 +32,7 @@
             <tbody>
             <tr th:each="item : ${items}">
                 <td><a href="item.html" th:href="@{/basic/items/{itemId}
-(itemId=${item.id})}" th:text="${item.id}">회원id</a></td>
+                (itemId=${item.id})}" th:text="${item.id}">회원id</a></td>
                 <td><a href="item.html" th:href="@{|/basic/items/${item.id}|}"
                        th:text="${item.itemName}">상품명</a></td>
                 <td th:text="${item.price}">10000</td>
