@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9956a72-eb3f-44b8-aa18-60df6548f6cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b9956a72-eb3f-44b8-aa18-60df6548f6cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Spring_Daily/springmvc"
+    "last_opened_file_path": "C:/Spring_Daily/thymeleaf-basic"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -46,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1706148086208</updated>
     </task>
+    <task id="LOCAL-00001" summary="add thyme-leaf files">
+      <created>1714737073875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714737073875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add thyme-leaf files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add thyme-leaf files" />
   </component>
 </project>
