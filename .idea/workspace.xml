@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9956a72-eb3f-44b8-aa18-60df6548f6cd" name="Changes" comment="" />
+    <list default="true" id="b9956a72-eb3f-44b8-aa18-60df6548f6cd" name="Changes" comment="add thyme-leaf files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Spring_Daily/thymeleaf-basic"
+    "last_opened_file_path": "C:/Spring_Daily/message-start"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
