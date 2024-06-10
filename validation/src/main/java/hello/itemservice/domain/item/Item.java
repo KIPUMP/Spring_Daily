@@ -13,7 +13,7 @@ import javax.validation.constraints.NotNull;
 public class Item {
 
     private Long id;
-    @NotBlank(message = "not available NULL")
+    @NotBlank(message = "not available null")
     private String itemName;
     @NotNull
     @Range(min = 1000, max = 1000000)
