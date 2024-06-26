@@ -10,6 +10,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 @Entity
 public class Posts {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -18,6 +19,7 @@ public class Posts {
 
     @Column(columnDefinition = "TEXT", nullable = false)
     private String content;
+
     private String author;
 
     @Builder
@@ -26,4 +28,5 @@ public class Posts {
         this.content = content;
         this.author = author;
     }
+
 }
