@@ -1,4 +1,5 @@
-package com.jojoldu.book.springboot.service.posts;
+package com.jojoldu.book.springboot.service;
+
 
 import com.jojoldu.book.springboot.domain.posts.PostsRepository;
 import com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto;
@@ -12,6 +13,8 @@ public class PostsService {
 
     @Transactional
     public Long save(PostsSaveRequestDto requestDto) {
-        return PostsRepository.save(requestDto.toEntity()).getId();
+        return postsRepository.save(requestDto.toEntity()).getId();
     }
+
+
 }
